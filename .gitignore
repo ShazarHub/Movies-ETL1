@@ -1,6 +1,6 @@
 # add config.py to my  .gitignore
 config_1.py
-movies_meadata.csv
+movies_metadata.csv
 ratings.csv
 
 
