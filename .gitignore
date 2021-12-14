@@ -1,8 +1,7 @@
 # add config.py to my  .gitignore
-config_1.py
 movies_metadata.csv
 ratings.csv
-
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
